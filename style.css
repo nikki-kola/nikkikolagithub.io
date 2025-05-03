@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: blue;
+}
+body{
+    position: absolute;
+    width: 150;
+    top: 50%;
+    text-align: center;
+    color: yellow;
+    font-weight: bold;
+    font-size: 30;
+}
+body{
+    position: relative;
+    height: 200;
+    width: 350;
+    margin: 20px auto;
+    border-radius: 50%;
+    box-shadow: 0 20px rgba(0,0,0,0.3);
+}
+img{
+  margin-top: 30px; 
+  border: 5px dashed; 
+  border-radius: 50%;
+  
+}
